@@ -1,0 +1,18 @@
+body{
+    background-color: #16202b;
+}
+.loginForm{
+    margin:0 auto;
+    width: 500px;
+
+}
+.form-group input{
+    background-color: #1a334e;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.btn-login{
+    border: 0;
+    border-radius: 25px;
+}
